@@ -1,5 +1,5 @@
 {
-  "name": "eslint-config-swb-test",
+  "name": "eslint-config-airbnb",
   "version": "1.0.0",
   "description": "Airbnb's ESLint config, following our styleguide",
   "main": "index.js",
